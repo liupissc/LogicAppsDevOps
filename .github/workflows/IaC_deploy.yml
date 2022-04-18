@@ -13,7 +13,7 @@ on:
 
 jobs:
   DeployDev:
-    name: Deploy to Dev
+    name: Deploy to Dev 1
     runs-on: ubuntu-latest
     environment: 
       name: Dev
